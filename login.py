@@ -1,6 +1,7 @@
 # coding:utf-8
-
-
+"""
+模拟登陆
+"""
 import requests
 from lxml import etree
 
